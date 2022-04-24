@@ -11,6 +11,7 @@ const artists = [
     wiki_url: "https://en.wikipedia.org/wiki/Marlon_Brando",
   },
   {
+  
     id: "A2",
     first_name: "Al",
     last_name: "Pacino",

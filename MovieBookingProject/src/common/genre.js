@@ -12,6 +12,4 @@ let genres = [
     name: "Drama",
   },
 ];
-
-
 export default genres;
