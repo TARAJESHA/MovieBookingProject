@@ -17,6 +17,7 @@ let moviesData = [
     artists: [
       {
       
+      
         id: "A1",
         first_name: "Marlon",
         last_name: "Brando",
