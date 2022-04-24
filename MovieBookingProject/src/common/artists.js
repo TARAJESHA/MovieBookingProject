@@ -12,6 +12,7 @@ const artists = [
   },
   {
   
+    
     id: "A2",
     first_name: "Al",
     last_name: "Pacino",

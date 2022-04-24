@@ -27,6 +27,7 @@ const styles = (theme) => ({
     flexGrow: 1,
     backgroundColor: theme.palette.background.paper,
   },
+  
   upcomingMoviesHeading: {
     textAlign: "center",
     background: "#ff9999",

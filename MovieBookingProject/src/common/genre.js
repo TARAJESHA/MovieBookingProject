@@ -7,9 +7,11 @@ let genres = [
     id: 2,
     name: "Sci-Fi",
   },
+
   {
     id: 3,
     name: "Drama",
   },
 ];
+
 export default genres;
